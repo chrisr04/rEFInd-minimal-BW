@@ -44,9 +44,9 @@ El icono de Windows proviene de [rEFInd Next][rEFInd-Next] tema hecho por [sdbin
 
 Fue añadido el icono de Manjaro OS y mejorado el icono de apagado
 
-EvanPurkhiser: https://github.com/EvanPurkhiser
-rEFInd-minimal: https://github.com/EvanPurkhiser/rEFInd-minimal
-icons: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
-icon-author: http://sworiginal.deviantart.com
-rEFInd-Next: http://sdbinwiiexe.deviantart.com/art/rEFInd-Next-Theme-407754566
-sdbinwiiexe: http://sdbinwiiexe.deviantart.com
+[EvanPurkhiser]: https://github.com/EvanPurkhiser
+[rEFInd-minimal]: https://github.com/EvanPurkhiser/rEFInd-minimal
+[icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
+[icon-author]: http://sworiginal.deviantart.com
+[rEFInd-Next]: http://sdbinwiiexe.deviantart.com/art/rEFInd-Next-Theme-407754566
+[sdbinwiiexe]: http://sdbinwiiexe.deviantart.com
