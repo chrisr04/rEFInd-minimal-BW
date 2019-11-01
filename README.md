@@ -5,7 +5,7 @@
 ### Uso
 
  1. Lo primero es ubicar el directorio de la carpeta rEFInd, lo más común es algo como esto `/boot/EFI/refind`, además, es 
-    posible que tengas que montar la participación donde se encuentra rEFInd, el comando`mount` puede ser de utilidad.
+    posible que tengas que montar la participación donde se encuentra rEFInd, el comando `mount` puede ser de utilidad.
 
  2. Clona este repositorio dentro de la carpeta de configuración de rEFInd.
 
@@ -40,7 +40,9 @@ Este tema es basado en el [rEFInd-minimal][rEFInd-minimal] creado por [EvanPurkh
 
 Muchos de los iconos provienen de [Lightness for burg][icons] hecho por [SWOriginal][icon-author]; fueron modificados para un mejor contraste con el fondo oscuro del tema.
 
-El icono de Windows proviene de [rEFInd Next][rEFInd-Next] tema hecho por [sdbinwiiexe][sdbinwiiexe];
+El icono de Windows proviene de [rEFInd Next][rEFInd-Next] tema hecho por [sdbinwiiexe][sdbinwiiexe]
+
+Fue añadido el icono de Manjaro OS y mejorado el icono de apagado
 
 [EvanPurkhiser]: https://github.com/EvanPurkhiser
 [rEFInd-minimal]: https://github.com/EvanPurkhiser/rEFInd-minimal
