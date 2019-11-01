@@ -1,4 +1,4 @@
-## rEFInd-minimal, black & white edition
+## rEFInd-minimal, dark edition
 
 [rEFInd](http://www.rodsbooks.com/refind/) es un simple gestor de arranque para sistemas basados en UEFI.
 
