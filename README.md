@@ -2,7 +2,7 @@
 
 [rEFInd](http://www.rodsbooks.com/refind/) es un simple gestor de arranque para sistemas basados en UEFI.
 
-### Usage
+### Uso
 
  1. Lo primero es ubicar el directorio de la carpeta rEFInd, lo más común es algo como esto `/boot/EFI/refind`, además, es 
     posible que tengas que montar la participación donde se encuentra rEFInd, el comando`mount` puede ser de utilidad.
