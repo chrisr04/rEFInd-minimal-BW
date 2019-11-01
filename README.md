@@ -36,7 +36,7 @@ Las entradas serán detectadas automáticamente con su respectivo icono.
 
 ### Atribuciones
 
-Este tema es basado en el [rEFInd-minimal][rEFInd-minimal] creado por [EvanPurkhiser][EvanPurkhiser].
+Este tema es basado en [rEFInd-minimal][rEFInd-minimal] creado por [EvanPurkhiser][EvanPurkhiser].
 
 Muchos de los iconos provienen de [Lightness for burg][icons] hecho por [SWOriginal][icon-author]; fueron modificados para un mejor contraste con el fondo oscuro del tema.
 
@@ -45,7 +45,7 @@ El icono de Windows proviene de [rEFInd Next][rEFInd-Next] tema hecho por [sdbin
 Fue añadido el icono de Manjaro OS y mejorado el icono de apagado
 
 [EvanPurkhiser]: https://github.com/EvanPurkhiser
-[rEFInd-minimal]: https://github.com/EvanPurkhiser/rEFInd-minimal
+[rEFInd-minimal-theme]: https://github.com/EvanPurkhiser/rEFInd-minimal
 [icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
 [icon-author]: http://sworiginal.deviantart.com
 [rEFInd-Next]: http://sdbinwiiexe.deviantart.com/art/rEFInd-Next-Theme-407754566
