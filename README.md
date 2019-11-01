@@ -36,7 +36,7 @@ Las entradas serán detectadas automáticamente con su respectivo icono.
 
 ### Atribuciones
 
-Este tema es basado en [rEFInd-minimal][rEFInd-minimal] creado por [EvanPurkhiser][EvanPurkhiser].
+Este tema es basado en [rEFInd-minimal-theme][rEFInd-minimal-theme] creado por [EvanPurkhiser][EvanPurkhiser].
 
 Muchos de los iconos provienen de [Lightness for burg][icons] hecho por [SWOriginal][icon-author]; fueron modificados para un mejor contraste con el fondo oscuro del tema.
 
