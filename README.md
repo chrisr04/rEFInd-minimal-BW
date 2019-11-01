@@ -1,19 +1,17 @@
 ## rEFInd-minimal, black & white edition
 
-[rEFInd](http://www.rodsbooks.com/refind/) is a simple boot manager for UEFI-based systems. This is a clean and minimal theme for it.
+[rEFInd](http://www.rodsbooks.com/refind/) es un simple gestor de arranque para sistemas basados en UEFI.
 
 ### Usage
 
- 1. Locate your rEFInd EFI directory. This is commonly `/boot/EFI/refind`,
-    though it will depend on where you mount your ESP and where rEFInd is
-    installed. `fdisk -l` and `mount` may help.
+ 1. Lo primero es ubicar el directorio de la carpeta rEFInd, lo más común es algo como esto `/boot/EFI/refind`, además, es 
+    posible que tengas que montar la participación donde se encuentra rEFInd, el comando`mount` puede ser de utilidad.
 
- 2. Clone this repository into your rEFInd configuration directory.
+ 2. Clona este repositorio dentro de la carpeta de configuración de rEFInd.
 
- 3. To enable the theme add `include rEFInd-minimal-BW/theme.conf` at the end of
-    `refind.conf`.
+ 3. Para activar el tema añade la siguiente linea`include rEFInd-minimal-BW/theme.conf` al final del archivo `refind.conf`.
 
-Here's an example menuentry configuration:
+Un pequeño ejemplo de la configuración de una entrada del menú:
 
 ```nginx
 menuentry "Arch Linux" {
@@ -34,15 +32,15 @@ menuentry "OSX" {
 }
 ```
 
-Entries that are autodetected should also show the proper icons.
+Las entradas serán detectadas automáticamente con su respectivo icono.
 
-### Attribution
+### Atribuciones
 
-This theme is based on the [rEFInd-minimal][rEFInd-minimal] theme by [EvanPurkhiser][EvanPurkhiser].
+Este tema es basado en el [rEFInd-minimal][rEFInd-minimal] creado por [EvanPurkhiser][EvanPurkhiser].
 
-Most of the OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author]; they were modified to match the black background of this theme.
+Muchos de los iconos provienen de [Lightness for burg][icons] hecho por [SWOriginal][icon-author]; fueron modificados para un mejor contraste con el fondo oscuro del tema.
 
-The Windows icon is from the [rEFInd Next][rEFInd-Next] theme by [sdbinwiiexe][sdbinwiiexe]; it was scaled and aligned to the selection icons in this theme.
+El icono de Windows proviene de [rEFInd Next][rEFInd-Next] tema hecho por [sdbinwiiexe][sdbinwiiexe];
 
 [EvanPurkhiser]: https://github.com/EvanPurkhiser
 [rEFInd-minimal]: https://github.com/EvanPurkhiser/rEFInd-minimal
